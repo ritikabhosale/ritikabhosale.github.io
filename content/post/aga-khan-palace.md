@@ -25,6 +25,7 @@ Aga Khan Palace was built by Sultan Muhammed Shah Aga Khan 3 in 1892 in Pune, Ma
 The palace covers an area of 19 acres, out of which 7 acres is built up area and the rest is well maintained garden, with spacious lawns, which mesmerizes its visitors. You could get really good photos clicked here. It is known for its brillant islamic Architecture. And it is one of the most popular tourist places in Pune.
 
 **What's inside**
+
 There are 5 halls in this palace with memorials of Gandhiji and their wife. The walls of these halls are filled with frames which has wide information about the Mahatma Gandhi and the freedom struggle movement. So if you are a history lover, then you would love this place.
 
 **I want to share some points:-**
@@ -37,4 +38,3 @@ There are 5 halls in this palace with memorials of Gandhiji and their wife. The 
 
 ![Aga Khan Palace](/images/garden-view1.jpg)
 ![Aga Khan Palace](/images/garden-view2.jpg)
-![Aga Khan Palace](/images/gandhiji.jpg)
